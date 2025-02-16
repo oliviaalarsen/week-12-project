@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": "3fd1",
+      "title": "Red Dead Redemption 2",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmYkh80D5i2Rv7qgmZGQ-Q-I9Wj91nHR_gTIlgknSHMlLpmvQ",
+      "description": "An epic tale of heroism coupled with the internal struggle of honor/dishonor, set in America's unforgiving Wild West."
+    },
+    {
+      "id": "6639",
+      "title": "Cyberpunk 2077",
+      "img": "https://cdn2.steamgriddb.com/thumb/6498fece50ede60a446812e25f080c7d.jpg",
+      "description": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification."
+    },
+    {
+      "id": "f7d7",
+      "title": "Baldur's Gate 3",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg",
+      "description": "A turn-based RPG set in the Dungeons & Dragons universe with mind flayers and otherworldly creatures."
+    },
+    {
+      "id": "30f5",
+      "title": "Hogwarts Legacy",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png",
+      "description": "A magical open-world action RPG set in the world of Harry Potter."
+    }
+  ]
+}
